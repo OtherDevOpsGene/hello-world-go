@@ -14,7 +14,7 @@ the infrastructure for your Docker container.
 
 ## Objectives
 
-- [ ] Create a simple GoLang Hello World application
+- [x] Create a simple GoLang Hello World application
 - [ ] Build a Docker image of the application
 - [ ] Use Terraform or CloudFormation to automate the deployment of the Docker container
 - [ ] Ensure to use best practices regarding security (credential handling)
