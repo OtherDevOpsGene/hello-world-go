@@ -22,3 +22,6 @@ USER scratchuser
 
 # Default to running the app
 ENTRYPOINT ["/hello"]
+
+# Nothing to check since it is ephemeral
+HEALTHCHECK NONE
