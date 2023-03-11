@@ -16,7 +16,7 @@ the infrastructure for your Docker container.
 
 - [x] Create a simple GoLang Hello World application
 - [x] Build a Docker image of the application
-- [ ] Use Terraform or CloudFormation to automate the deployment of the Docker container
+- [x] Use Terraform or CloudFormation to automate the deployment of the Docker container
 - [ ] Ensure to use best practices regarding security (credential handling)
 - [ ] Please use Gitlab or Github and be ready to share and speak about your code
 - [ ] How would you deploy this application using ECS/Kubernetes?
